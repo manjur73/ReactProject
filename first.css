@@ -1,0 +1,30 @@
+head
+{
+    font-size:xx-large;
+    background-color:beige;
+    animation-timing-function:linear;
+}
+
+#id{
+background-color: rgb(100, 239, 8);
+}
+h1:hover{
+background-color: blueviolet;
+}
+
+thead:hover{
+   
+ cursor: pointer;
+font-size: xx-small;
+background-color: brown;
+
+}
+.un-ordered::first-letter
+{
+background-color: brown;
+}
+/*a[id="2"]
+{
+font-family: Arial, Helvetica, sans-serif;
+background-color: blue(231, 215, 250);
+}*/
